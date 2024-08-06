@@ -21,7 +21,7 @@ export default function Document() {
         <meta content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="revisit-after" content="7 days" />
-        <meta name="author" content="Hasibul Islam" />
+        <meta name="author" content="Hana Guta" />
 
         <meta
           name="google-site-verification"
@@ -58,32 +58,7 @@ export default function Document() {
           property="twitter:url"
           content="https://travello-template.vercel.app"
         />
-        <meta
-          name="twitter:title"
-          content="Travello - Comprehensive travel agency platform for diverse booking needs worldwide"
-        />
-        <meta
-          name="twitter:description"
-          content="Perfect for all kinds of travel agency. Including tours, hotel booking, activity/event, travel experiences, online booking, room bnb, villa rental, holiday rental, resort rental, cruises, car rentals, real estate, flight ticket, and more"
-        />
-        <meta
-          name="twitter:image"
-          content="https://res.cloudinary.com/dho0rpn5a/image/upload/v1692935077/samples/travello_template.png"
-        />
-
-        <meta name="pinterest-rich-pin" content="true" />
-        <meta
-          name="pinterest:title"
-          content="Travello - Comprehensive travel agency platform for diverse booking needs worldwide"
-        />
-        <meta
-          name="pinterest:description"
-          content="Perfect for all kinds of travel agency. Including tours, hotel booking, activity/event, travel experiences, online booking, room bnb, villa rental, holiday rental, resort rental, cruises, car rentals, real estate, flight ticket, and more"
-        />
-        <meta
-          name="pinterest:image"
-          content="https://res.cloudinary.com/dho0rpn5a/image/upload/v1692935077/samples/travello_template.png"
-        />
+        
       </Head>
       <body>
         <Main />
